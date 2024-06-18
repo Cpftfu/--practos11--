@@ -1,0 +1,3 @@
+﻿  mnogoPotochnost-practos11-.cpp
+C:\Users\Вика\source\repos\mnogoPotochnost-practos11-\mnogoPotochnost-practos11-.cpp(17,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  mnogoPotochnost-practos11-.vcxproj -> C:\Users\Вика\source\repos\mnogoPotochnost-practos11-\x64\Debug\mnogoPotochnost-practos11-.exe
